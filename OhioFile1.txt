@@ -1,2 +1,1 @@
-"Hello there, I'm From Ohio. I'm pushing my code to Git Repo.
-Now I'm pulling my code from Mumbai Region and this is my first commit from Mumbai. Again pushing code from Mumbai region."
+"Hello There, Today is Saturday!"
